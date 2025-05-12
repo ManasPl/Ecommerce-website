@@ -48,10 +48,6 @@ The website allows users to leave reviews for products they've purchased. Review
 * Each review includes the user’s name, the star rating, the text feedback, and the date of the review.
 * The product’s overall rating is calculated based on all reviews and displayed on the product page.
 
-#### Example of Review Section:
-
-![Product Image Example](images/product-image.jpg)
-
 **User Review Example:**
 
 ⭐⭐⭐⭐⭐
